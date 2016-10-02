@@ -1,14 +1,18 @@
 {
   "name": "angular-test",
   "version": "0.0.0",
-  "private": true,
+  "description": "Test angular repo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bboyle/angular-test.git"
+  },
   "dependencies": {
     "angular": "~1.4.8",
     "angular-bootstrap": "^1.3.2",
     "angular-mocks": "~1.4.8",
     "angular-sanitize": "~1.4.8",
     "angular-ui-router": "~0.2.14",
-    "autobahnjs": "*",
+    "autobahn": "*",
     "bootstrap": "~3.3.6",
     "jquery": "~2.1.4",
     "momentjs": "~2.8.1",
