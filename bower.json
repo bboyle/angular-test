@@ -18,12 +18,13 @@
     "angular-ui-select": "^0.19.6",
     "angular-debounce": "^1.1.0",
     "angular-fullscreen": "^1.0.1",
-    "angular-social": "~1.0.0",
+    "angular-social": "git@github.com:AnimationMentor/angular-social.git#master",
     "autobahnjs": "http://autobahn.s3.amazonaws.com/js/autobahn.min.js",
     "momentjs": "^2.17.0",
     "requirejs": "^2.3.2",
     "showdown": "^0.5.4",
     "to-markdown": "^3.0.3",
-    "angular-froala": "^2.3.5"
+    "angular-froala": "^2.3.5",
+    "keymaster": "^1.6.3"
   }
 }
