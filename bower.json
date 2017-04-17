@@ -15,7 +15,7 @@
     "angular-ui-router": "^0.4.2",
     "angular-bootstrap": "2.5.0",
     "angular-ui-sortable": "^0.15.0",
-    "angular-ui-select": "^0.19.6",
+    "angular-ui-select": "0.19.6",
     "angular-debounce": "^1.1.0",
     "angular-fullscreen": "^1.0.1",
     "angular-social": "git@github.com:AnimationMentor/angular-social.git#master",
